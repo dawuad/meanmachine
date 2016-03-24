@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Super project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawuad/meanmachine.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Firdos Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawuad/meanmachine/issues"
+  },
+  "homepage": "https://github.com/dawuad/meanmachine#readme"
+}
